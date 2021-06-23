@@ -11,4 +11,5 @@ O veículo de notícias "portal news" é uma empresa preocupada com o design flu
 * Imagens fluídas e Imagens vetoriais
 * Media Queries
 * Breakpoints de conteúdo
+* Viewport e Workflow
 * Mobile first (por último, mas o mais importante!)
